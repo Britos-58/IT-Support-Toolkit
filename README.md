@@ -12,7 +12,7 @@ The goal of this project is to document and standardize IT operations. It covers
 - 📖 **[`docs/`](docs/)** - The core Knowledge Base.
   - **`troubleshooting/`**: Step-by-step diagnostic playbooks for OS, Networks, APIs, Databases, and Peripherals.
   - **`incidents/`**: ITIL-based Major Incident Management, SLAs, and Post-Incident Report (PIR) templates.
-  - **`support/`**: *(Work in Progress)* Ticket workflows and Customer Support guidelines.
+  - **`support/`**: Ticket workflows, Customer Support guidelines, and Knowledge Base FAQs.
   - **`systems/`**: *(Work in Progress)* Hardware diagnostics and Backup/Recovery plans.
   - **`networking/`**: *(Work in Progress)* Core networking concepts and CLI diagnostics.
 - ⚙️ **[`scripts/`](scripts/)** - *(Work in Progress)* PowerShell and Python automation tools.
@@ -25,6 +25,9 @@ The goal of this project is to document and standardize IT operations. It covers
 - **Networking:** TCP/IP, DNS, DHCP, SNMP, Wi-Fi (RSSI, Interference).
 - **Systems:** Windows Registry, Event Viewer, Active Directory (IAM), Group Policy.
 - **Applications:** REST APIs, HTTP Status Codes, RDBMS Connections, MSI Deployments.
+
+## ⚠️ Disclaimer & Contributions
+Technology changes fast! Please read the **[DISCLAIMER](DISCLAIMER.md)** before applying these configurations in a production environment. Feedback and corrections from IT professionals are highly encouraged.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
